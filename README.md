@@ -1,4 +1,4 @@
-# Capitol Trades Engine
+# Capitol Trades Engine (main repo is private)
 
 I built a small engine that runs a big job as many small tasks and still gives the right answer while I keep killing its parts. Then I used it on a real question: do members of the U.S. House beat the stock market with their trades?
 
