@@ -1,0 +1,5 @@
+line-length = 110
+extend-exclude = ["sdk/capitol_sdk/engine_pb2*.py", "sdk/capitol_sdk/engine_pb2*.pyi", "scratch"]
+
+[lint.isort]
+known-first-party = ["capitol_sdk", "pipeline"]

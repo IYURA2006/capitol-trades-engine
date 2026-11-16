@@ -1,0 +1,15 @@
+{
+ "note": "Which industries each House committee oversees, for the committee-match check. Written by hand and committed BEFORE any committee result was computed, so the choice could not be tuned to the answer. Labels are Yahoo Finance sector and industry names (snapshots/research/sectors.json). A trade is 'in jurisdiction' when the member sat on the committee at the trade date and the stock's sector or industry is listed here.",
+ "narrow": {
+  "HSAS": {"name": "Armed Services", "sectors": [], "industries": ["Aerospace & Defense"]},
+  "HSBA": {"name": "Financial Services", "sectors": ["Financial Services"], "industries": []},
+  "HSIF": {"name": "Energy and Commerce", "sectors": ["Energy", "Healthcare", "Utilities", "Communication Services"], "industries": []},
+  "HSAG": {"name": "Agriculture", "sectors": [], "industries": ["Farm Products", "Agricultural Inputs", "Farm & Heavy Construction Machinery"]},
+  "HSPW": {"name": "Transportation and Infrastructure", "sectors": [], "industries": ["Airlines", "Railroads", "Trucking", "Marine Shipping", "Integrated Freight & Logistics"]},
+  "HSII": {"name": "Natural Resources", "sectors": ["Energy"], "industries": ["Gold", "Copper", "Other Industrial Metals & Mining", "Other Precious Metals & Mining"]}
+ },
+ "broad": {
+  "HSWM": {"name": "Ways and Means (Medicare, tax)", "sectors": ["Healthcare"], "industries": []},
+  "HSAP": {"name": "Appropriations (defence spending)", "sectors": [], "industries": ["Aerospace & Defense"]}
+ }
+}

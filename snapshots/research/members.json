@@ -1,0 +1,11019 @@
+{
+ "commit": "29d9fee454fe373298705eb659abd372e15f2eef",
+ "members": {
+  "A000055": {
+   "last": "Aderholt",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AL"
+    }
+   ]
+  },
+  "A000148": {
+   "last": "Auchincloss",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MA"
+    }
+   ]
+  },
+  "A000369": {
+   "last": "Amodei",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NV"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NV"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NV"
+    }
+   ]
+  },
+  "A000370": {
+   "last": "Adams",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "A000371": {
+   "last": "Aguilar",
+   "terms": [
+    {
+     "district": 31,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 33,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 33,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "A000372": {
+   "last": "Allen",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "A000375": {
+   "last": "Arrington",
+   "terms": [
+    {
+     "district": 19,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 19,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 19,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "A000376": {
+   "last": "Allred",
+   "terms": [
+    {
+     "district": 32,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 32,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "A000377": {
+   "last": "Armstrong",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "ND"
+    },
+    {
+     "district": 0,
+     "end": "2024-12-14",
+     "start": "2023-01-03",
+     "state": "ND"
+    }
+   ]
+  },
+  "A000378": {
+   "last": "Axne",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IA"
+    }
+   ]
+  },
+  "A000379": {
+   "last": "Alford",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "A000380": {
+   "last": "Amo",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-11-07",
+     "state": "RI"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "RI"
+    }
+   ]
+  },
+  "A000381": {
+   "last": "Ansari",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "B000490": {
+   "last": "Bishop",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "B000574": {
+   "last": "Blumenauer",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OR"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OR"
+    }
+   ]
+  },
+  "B000668": {
+   "last": "Bentz",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OR"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OR"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OR"
+    }
+   ]
+  },
+  "B000740": {
+   "last": "Bice",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OK"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OK"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OK"
+    }
+   ]
+  },
+  "B000755": {
+   "last": "Brady",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "B000825": {
+   "last": "Boebert",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "B001223": {
+   "last": "Bowman",
+   "terms": [
+    {
+     "district": 16,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 16,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "B001224": {
+   "last": "Bush",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "B001248": {
+   "last": "Burgess",
+   "terms": [
+    {
+     "district": 26,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 26,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "B001257": {
+   "last": "Bilirakis",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "B001260": {
+   "last": "Buchanan",
+   "terms": [
+    {
+     "district": 16,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 16,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 16,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "B001270": {
+   "last": "Bass",
+   "terms": [
+    {
+     "district": 37,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "B001274": {
+   "last": "Brooks",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AL"
+    }
+   ]
+  },
+  "B001275": {
+   "last": "Bucshon",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "B001278": {
+   "last": "Bonamici",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OR"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OR"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OR"
+    }
+   ]
+  },
+  "B001281": {
+   "last": "Beatty",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "B001282": {
+   "last": "Barr",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "KY"
+    }
+   ]
+  },
+  "B001285": {
+   "last": "Brownley",
+   "terms": [
+    {
+     "district": 26,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 26,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 26,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "B001286": {
+   "last": "Bustos",
+   "terms": [
+    {
+     "district": 17,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "B001287": {
+   "last": "Bera",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "B001291": {
+   "last": "Babin",
+   "terms": [
+    {
+     "district": 36,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 36,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 36,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "B001292": {
+   "last": "Beyer",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "B001295": {
+   "last": "Bost",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "B001296": {
+   "last": "Boyle",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "B001297": {
+   "last": "Buck",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 4,
+     "end": "2024-03-22",
+     "start": "2023-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "B001298": {
+   "last": "Bacon",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NE"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NE"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NE"
+    }
+   ]
+  },
+  "B001299": {
+   "last": "Banks",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "B001300": {
+   "last": "Barrag\u00e1n",
+   "terms": [
+    {
+     "district": 44,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 44,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 44,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "B001301": {
+   "last": "Bergman",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "B001302": {
+   "last": "Biggs",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "B001303": {
+   "last": "Blunt Rochester",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "DE"
+    },
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "DE"
+    }
+   ]
+  },
+  "B001304": {
+   "last": "Brown",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "B001305": {
+   "last": "Budd",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "B001306": {
+   "last": "Balderson",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "B001307": {
+   "last": "Baird",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "B001309": {
+   "last": "Burchett",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TN"
+    }
+   ]
+  },
+  "B001311": {
+   "last": "Bishop",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "B001312": {
+   "last": "Bourdeaux",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "B001313": {
+   "last": "Brown",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-11-04",
+     "state": "OH"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "B001314": {
+   "last": "Bean",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "B001315": {
+   "last": "Budzinski",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 13,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "B001316": {
+   "last": "Burlison",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "B001317": {
+   "last": "Brecheen",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OK"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OK"
+    }
+   ]
+  },
+  "B001318": {
+   "last": "Balint",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VT"
+    },
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VT"
+    }
+   ]
+  },
+  "B001321": {
+   "last": "Barrett",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "B001322": {
+   "last": "Baumgartner",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "B001323": {
+   "last": "Begich",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AK"
+    }
+   ]
+  },
+  "B001324": {
+   "last": "Bell",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "B001325": {
+   "last": "Biggs",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "SC"
+    }
+   ]
+  },
+  "B001326": {
+   "last": "Bynum",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OR"
+    }
+   ]
+  },
+  "B001327": {
+   "last": "Bresnahan",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "B001328": {
+   "last": "Blair",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2027-01-03",
+     "start": "2026-09-01",
+     "state": "GA"
+    }
+   ]
+  },
+  "C000059": {
+   "last": "Calvert",
+   "terms": [
+    {
+     "district": 42,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 41,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 41,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "C000266": {
+   "last": "Chabot",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "C000537": {
+   "last": "Clyburn",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "SC"
+    }
+   ]
+  },
+  "C000754": {
+   "last": "Cooper",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TN"
+    }
+   ]
+  },
+  "C001039": {
+   "last": "Cammack",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "C001051": {
+   "last": "Carter",
+   "terms": [
+    {
+     "district": 31,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 31,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 31,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "C001053": {
+   "last": "Cole",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OK"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OK"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OK"
+    }
+   ]
+  },
+  "C001054": {
+   "last": "Carl",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AL"
+    }
+   ]
+  },
+  "C001055": {
+   "last": "Case",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "HI"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "HI"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "HI"
+    }
+   ]
+  },
+  "C001059": {
+   "last": "Costa",
+   "terms": [
+    {
+     "district": 16,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 21,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 21,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "C001061": {
+   "last": "Cleaver",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "C001063": {
+   "last": "Cuellar",
+   "terms": [
+    {
+     "district": 28,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 28,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 28,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "C001066": {
+   "last": "Castor",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 14,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 14,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "C001067": {
+   "last": "Clarke",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "C001068": {
+   "last": "Cohen",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TN"
+    }
+   ]
+  },
+  "C001069": {
+   "last": "Courtney",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CT"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CT"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CT"
+    }
+   ]
+  },
+  "C001072": {
+   "last": "Carson",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "C001078": {
+   "last": "Connolly",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 11,
+     "end": "2025-05-21",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "C001080": {
+   "last": "Chu",
+   "terms": [
+    {
+     "district": 27,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 28,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 28,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "C001084": {
+   "last": "Cicilline",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "RI"
+    },
+    {
+     "district": 1,
+     "end": "2023-05-31",
+     "start": "2023-01-03",
+     "state": "RI"
+    }
+   ]
+  },
+  "C001087": {
+   "last": "Crawford",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AR"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AR"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AR"
+    }
+   ]
+  },
+  "C001090": {
+   "last": "Cartwright",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "C001091": {
+   "last": "Castro",
+   "terms": [
+    {
+     "district": 20,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 20,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 20,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "C001097": {
+   "last": "C\u00e1rdenas",
+   "terms": [
+    {
+     "district": 29,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 29,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "C001101": {
+   "last": "Clark",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MA"
+    }
+   ]
+  },
+  "C001103": {
+   "last": "Carter",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "C001104": {
+   "last": "Cawthorn",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "C001108": {
+   "last": "Comer",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "KY"
+    }
+   ]
+  },
+  "C001109": {
+   "last": "Cheney",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WY"
+    }
+   ]
+  },
+  "C001110": {
+   "last": "Correa",
+   "terms": [
+    {
+     "district": 46,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 46,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 46,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "C001112": {
+   "last": "Carbajal",
+   "terms": [
+    {
+     "district": 24,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 24,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 24,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "C001114": {
+   "last": "Curtis",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "UT"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "UT"
+    }
+   ]
+  },
+  "C001115": {
+   "last": "Cloud",
+   "terms": [
+    {
+     "district": 27,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 27,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 27,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "C001116": {
+   "last": "Clyde",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "C001117": {
+   "last": "Casten",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "C001118": {
+   "last": "Cline",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "C001119": {
+   "last": "Craig",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MN"
+    }
+   ]
+  },
+  "C001120": {
+   "last": "Crenshaw",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "C001121": {
+   "last": "Crow",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "C001123": {
+   "last": "Cisneros",
+   "terms": [
+    {
+     "district": 31,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "C001125": {
+   "last": "Carter",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-05-11",
+     "state": "LA"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "LA"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "LA"
+    }
+   ]
+  },
+  "C001126": {
+   "last": "Carey",
+   "terms": [
+    {
+     "district": 15,
+     "end": "2023-01-03",
+     "start": "2021-11-04",
+     "state": "OH"
+    },
+    {
+     "district": 15,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 15,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "C001127": {
+   "last": "Cherfilus-McCormick",
+   "terms": [
+    {
+     "district": 20,
+     "end": "2023-01-03",
+     "start": "2022-01-18",
+     "state": "FL"
+    },
+    {
+     "district": 20,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 20,
+     "end": "2026-04-21",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "C001128": {
+   "last": "Conway",
+   "terms": [
+    {
+     "district": 22,
+     "end": "2023-01-03",
+     "start": "2022-06-07",
+     "state": "CA"
+    }
+   ]
+  },
+  "C001129": {
+   "last": "Collins",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "C001130": {
+   "last": "Crockett",
+   "terms": [
+    {
+     "district": 30,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 30,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "C001131": {
+   "last": "Casar",
+   "terms": [
+    {
+     "district": 35,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 35,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "C001132": {
+   "last": "Crane",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "C001133": {
+   "last": "Ciscomani",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "C001134": {
+   "last": "Caraveo",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "C001135": {
+   "last": "Chavez-DeRemer",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OR"
+    }
+   ]
+  },
+  "C001136": {
+   "last": "Conaway",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "C001137": {
+   "last": "Crank",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "D000032": {
+   "last": "Donalds",
+   "terms": [
+    {
+     "district": 19,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 19,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 19,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "D000096": {
+   "last": "Davis",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "D000191": {
+   "last": "DeFazio",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OR"
+    }
+   ]
+  },
+  "D000197": {
+   "last": "DeGette",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "D000216": {
+   "last": "DeLauro",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CT"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CT"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CT"
+    }
+   ]
+  },
+  "D000230": {
+   "last": "Davis",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "D000399": {
+   "last": "Doggett",
+   "terms": [
+    {
+     "district": 35,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 37,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 37,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "D000530": {
+   "last": "Deluzio",
+   "terms": [
+    {
+     "district": 17,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 17,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "D000594": {
+   "last": "De La Cruz",
+   "terms": [
+    {
+     "district": 15,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 15,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "D000600": {
+   "last": "Diaz-Balart",
+   "terms": [
+    {
+     "district": 25,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 26,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 26,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "D000615": {
+   "last": "Duncan",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "SC"
+    }
+   ]
+  },
+  "D000616": {
+   "last": "DesJarlais",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TN"
+    }
+   ]
+  },
+  "D000617": {
+   "last": "DelBene",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "D000619": {
+   "last": "Davis",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "D000623": {
+   "last": "DeSaulnier",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "D000624": {
+   "last": "Dingell",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "D000626": {
+   "last": "Davidson",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "D000627": {
+   "last": "Demings",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "D000628": {
+   "last": "Dunn",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "D000629": {
+   "last": "Davids",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "KS"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "KS"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "KS"
+    }
+   ]
+  },
+  "D000631": {
+   "last": "Dean",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "D000632": {
+   "last": "D'Esposito",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "D000633": {
+   "last": "Duarte",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "D000634": {
+   "last": "Downing",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MT"
+    }
+   ]
+  },
+  "D000635": {
+   "last": "Dexter",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OR"
+    }
+   ]
+  },
+  "E000071": {
+   "last": "Ellzey",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-07-30",
+     "state": "TX"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "E000215": {
+   "last": "Eshoo",
+   "terms": [
+    {
+     "district": 18,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 16,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "E000235": {
+   "last": "Ezell",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MS"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MS"
+    }
+   ]
+  },
+  "E000246": {
+   "last": "Edwards",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "E000294": {
+   "last": "Emmer",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MN"
+    }
+   ]
+  },
+  "E000296": {
+   "last": "Evans",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "E000297": {
+   "last": "Espaillat",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 13,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 13,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "E000298": {
+   "last": "Estes",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "KS"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "KS"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "KS"
+    }
+   ]
+  },
+  "E000299": {
+   "last": "Escobar",
+   "terms": [
+    {
+     "district": 16,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 16,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 16,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "E000300": {
+   "last": "Evans",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "E000301": {
+   "last": "Elfreth",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "F000110": {
+   "last": "Fields",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "LA"
+    }
+   ]
+  },
+  "F000246": {
+   "last": "Fallon",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "F000446": {
+   "last": "Feenstra",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IA"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IA"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IA"
+    }
+   ]
+  },
+  "F000450": {
+   "last": "Foxx",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "F000454": {
+   "last": "Foster",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "F000459": {
+   "last": "Fleischmann",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TN"
+    }
+   ]
+  },
+  "F000462": {
+   "last": "Frankel",
+   "terms": [
+    {
+     "district": 21,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 22,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 22,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "F000465": {
+   "last": "Ferguson",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "F000466": {
+   "last": "Fitzpatrick",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "F000468": {
+   "last": "Fletcher",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "F000469": {
+   "last": "Fulcher",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "ID"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "ID"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "ID"
+    }
+   ]
+  },
+  "F000470": {
+   "last": "Fischbach",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MN"
+    }
+   ]
+  },
+  "F000471": {
+   "last": "Fitzgerald",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WI"
+    }
+   ]
+  },
+  "F000472": {
+   "last": "Franklin",
+   "terms": [
+    {
+     "district": 15,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 18,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 18,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "F000473": {
+   "last": "Flores",
+   "terms": [
+    {
+     "district": 34,
+     "end": "2023-01-03",
+     "start": "2022-06-21",
+     "state": "TX"
+    }
+   ]
+  },
+  "F000474": {
+   "last": "Flood",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2022-07-12",
+     "state": "NE"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NE"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NE"
+    }
+   ]
+  },
+  "F000475": {
+   "last": "Finstad",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2022-08-12",
+     "state": "MN"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MN"
+    }
+   ]
+  },
+  "F000476": {
+   "last": "Frost",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "F000477": {
+   "last": "Foushee",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "F000478": {
+   "last": "Fry",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "SC"
+    }
+   ]
+  },
+  "F000480": {
+   "last": "Fong",
+   "terms": [
+    {
+     "district": 20,
+     "end": "2025-01-03",
+     "start": "2024-06-03",
+     "state": "CA"
+    },
+    {
+     "district": 20,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "F000481": {
+   "last": "Figures",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AL"
+    }
+   ]
+  },
+  "F000482": {
+   "last": "Fedorchak",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "ND"
+    }
+   ]
+  },
+  "F000483": {
+   "last": "Friedman",
+   "terms": [
+    {
+     "district": 30,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "F000484": {
+   "last": "Fine",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-04-02",
+     "state": "FL"
+    }
+   ]
+  },
+  "F000485": {
+   "last": "Fuller",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2027-01-03",
+     "start": "2026-04-14",
+     "state": "GA"
+    }
+   ]
+  },
+  "G000061": {
+   "last": "Garcia",
+   "terms": [
+    {
+     "district": 25,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 27,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "G000377": {
+   "last": "Granger",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "G000546": {
+   "last": "Graves",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "G000551": {
+   "last": "Grijalva",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 7,
+     "end": "2025-03-13",
+     "start": "2025-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "G000552": {
+   "last": "Gohmert",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "G000553": {
+   "last": "Green",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "G000558": {
+   "last": "Guthrie",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "KY"
+    }
+   ]
+  },
+  "G000559": {
+   "last": "Garamendi",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "G000563": {
+   "last": "Gibbs",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "G000565": {
+   "last": "Gosar",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "G000568": {
+   "last": "Griffith",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "G000574": {
+   "last": "Gallego",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "G000576": {
+   "last": "Grothman",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WI"
+    }
+   ]
+  },
+  "G000577": {
+   "last": "Graves",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "LA"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "LA"
+    }
+   ]
+  },
+  "G000578": {
+   "last": "Gaetz",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 1,
+     "end": "2024-11-13",
+     "start": "2023-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "G000579": {
+   "last": "Gallagher",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 8,
+     "end": "2024-04-24",
+     "start": "2023-01-03",
+     "state": "WI"
+    }
+   ]
+  },
+  "G000581": {
+   "last": "Gonzalez",
+   "terms": [
+    {
+     "district": 15,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 34,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 34,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "G000582": {
+   "last": "Gonz\u00e1lez-Col\u00f3n",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PR"
+    },
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PR"
+    }
+   ]
+  },
+  "G000583": {
+   "last": "Gottheimer",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "G000585": {
+   "last": "Gomez",
+   "terms": [
+    {
+     "district": 34,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 34,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 34,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "G000586": {
+   "last": "Garc\u00eda",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "G000587": {
+   "last": "Garcia",
+   "terms": [
+    {
+     "district": 29,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 29,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 29,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "G000588": {
+   "last": "Gonzalez",
+   "terms": [
+    {
+     "district": 16,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "G000589": {
+   "last": "Gooden",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "G000590": {
+   "last": "Green",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 7,
+     "end": "2025-07-21",
+     "start": "2025-01-03",
+     "state": "TN"
+    }
+   ]
+  },
+  "G000591": {
+   "last": "Guest",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MS"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MS"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MS"
+    }
+   ]
+  },
+  "G000592": {
+   "last": "Golden",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "ME"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "ME"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "ME"
+    }
+   ]
+  },
+  "G000593": {
+   "last": "Gimenez",
+   "terms": [
+    {
+     "district": 26,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 28,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 28,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "G000594": {
+   "last": "Gonzales",
+   "terms": [
+    {
+     "district": 23,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 23,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 23,
+     "end": "2026-04-14",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "G000595": {
+   "last": "Good",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "G000596": {
+   "last": "Greene",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 14,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 14,
+     "end": "2026-01-05",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "G000597": {
+   "last": "Garbarino",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "G000598": {
+   "last": "Garcia",
+   "terms": [
+    {
+     "district": 42,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 42,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "G000599": {
+   "last": "Goldman",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "G000600": {
+   "last": "Gluesenkamp Perez",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "G000601": {
+   "last": "Goldman",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "G000602": {
+   "last": "Gillen",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "G000603": {
+   "last": "Gill",
+   "terms": [
+    {
+     "district": 26,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "G000604": {
+   "last": "Goodlander",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NH"
+    }
+   ]
+  },
+  "G000605": {
+   "last": "Gray",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "G000606": {
+   "last": "Grijalva",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-11-12",
+     "state": "AZ"
+    }
+   ]
+  },
+  "G000607": {
+   "last": "Gallagher",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2026-06-10",
+     "state": "CA"
+    }
+   ]
+  },
+  "H000874": {
+   "last": "Hoyer",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "H001038": {
+   "last": "Higgins",
+   "terms": [
+    {
+     "district": 26,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 26,
+     "end": "2024-02-02",
+     "start": "2023-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "H001047": {
+   "last": "Himes",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CT"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CT"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CT"
+    }
+   ]
+  },
+  "H001052": {
+   "last": "Harris",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "H001053": {
+   "last": "Hartzler",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "H001056": {
+   "last": "Herrera Beutler",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "H001058": {
+   "last": "Huizenga",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "H001066": {
+   "last": "Horsford",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NV"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NV"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NV"
+    }
+   ]
+  },
+  "H001067": {
+   "last": "Hudson",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "H001068": {
+   "last": "Huffman",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "H001071": {
+   "last": "Hice",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "H001072": {
+   "last": "Hill",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AR"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AR"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AR"
+    }
+   ]
+  },
+  "H001074": {
+   "last": "Hollingsworth",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "H001077": {
+   "last": "Higgins",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "LA"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "LA"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "LA"
+    }
+   ]
+  },
+  "H001081": {
+   "last": "Hayes",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CT"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CT"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CT"
+    }
+   ]
+  },
+  "H001082": {
+   "last": "Hern",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OK"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OK"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OK"
+    }
+   ]
+  },
+  "H001084": {
+   "last": "Herrell",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NM"
+    }
+   ]
+  },
+  "H001085": {
+   "last": "Houlahan",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "H001086": {
+   "last": "Harshbarger",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TN"
+    }
+   ]
+  },
+  "H001090": {
+   "last": "Harder",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "H001091": {
+   "last": "Hinson",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IA"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IA"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IA"
+    }
+   ]
+  },
+  "H001093": {
+   "last": "Houchin",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "H001094": {
+   "last": "Hoyle",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OR"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OR"
+    }
+   ]
+  },
+  "H001095": {
+   "last": "Hunt",
+   "terms": [
+    {
+     "district": 38,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 38,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "H001096": {
+   "last": "Hageman",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WY"
+    },
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WY"
+    }
+   ]
+  },
+  "H001098": {
+   "last": "Hamadeh",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "H001099": {
+   "last": "Haridopolos",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "H001100": {
+   "last": "Hurd",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "H001101": {
+   "last": "Harrigan",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "H001102": {
+   "last": "Harris",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "H001103": {
+   "last": "Hern\u00e1ndez Rivera",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PR"
+    }
+   ]
+  },
+  "I000056": {
+   "last": "Issa",
+   "terms": [
+    {
+     "district": 50,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 48,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 48,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "I000058": {
+   "last": "Ivey",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "J000020": {
+   "last": "Jacobs",
+   "terms": [
+    {
+     "district": 27,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "J000032": {
+   "last": "Jackson Lee",
+   "terms": [
+    {
+     "district": 18,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 18,
+     "end": "2024-07-19",
+     "start": "2023-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "J000126": {
+   "last": "Johnson",
+   "terms": [
+    {
+     "district": 30,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "J000288": {
+   "last": "Johnson",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "J000289": {
+   "last": "Jordan",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "J000292": {
+   "last": "Johnson",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 6,
+     "end": "2024-01-21",
+     "start": "2023-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "J000294": {
+   "last": "Jeffries",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "J000295": {
+   "last": "Joyce",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 14,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 14,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "J000298": {
+   "last": "Jayapal",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "J000299": {
+   "last": "Johnson",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "LA"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "LA"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "LA"
+    }
+   ]
+  },
+  "J000301": {
+   "last": "Johnson",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "SD"
+    },
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "SD"
+    },
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "SD"
+    }
+   ]
+  },
+  "J000302": {
+   "last": "Joyce",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 13,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 13,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "J000304": {
+   "last": "Jackson",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 13,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 13,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "J000305": {
+   "last": "Jacobs",
+   "terms": [
+    {
+     "district": 53,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 51,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 51,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "J000306": {
+   "last": "Jones",
+   "terms": [
+    {
+     "district": 17,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "J000307": {
+   "last": "James",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "J000308": {
+   "last": "Jackson",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2024-12-31",
+     "start": "2023-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "J000309": {
+   "last": "Jackson",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "J000310": {
+   "last": "Johnson",
+   "terms": [
+    {
+     "district": 32,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "J000311": {
+   "last": "Jack",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "K000009": {
+   "last": "Kaptur",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "K000188": {
+   "last": "Kind",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WI"
+    }
+   ]
+  },
+  "K000368": {
+   "last": "Kirkpatrick",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "K000375": {
+   "last": "Keating",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MA"
+    }
+   ]
+  },
+  "K000376": {
+   "last": "Kelly",
+   "terms": [
+    {
+     "district": 16,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 16,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 16,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "K000378": {
+   "last": "Kinzinger",
+   "terms": [
+    {
+     "district": 16,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "K000380": {
+   "last": "Kildee",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "K000381": {
+   "last": "Kilmer",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "K000382": {
+   "last": "Kuster",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NH"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NH"
+    }
+   ]
+  },
+  "K000385": {
+   "last": "Kelly",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "K000386": {
+   "last": "Katko",
+   "terms": [
+    {
+     "district": 24,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "K000388": {
+   "last": "Kelly",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MS"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MS"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MS"
+    }
+   ]
+  },
+  "K000389": {
+   "last": "Khanna",
+   "terms": [
+    {
+     "district": 17,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 17,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 17,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "K000391": {
+   "last": "Krishnamoorthi",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "K000392": {
+   "last": "Kustoff",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TN"
+    }
+   ]
+  },
+  "K000394": {
+   "last": "Kim",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 3,
+     "end": "2024-12-08",
+     "start": "2023-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "K000395": {
+   "last": "Keller",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "K000396": {
+   "last": "Kahele",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "HI"
+    }
+   ]
+  },
+  "K000397": {
+   "last": "Kim",
+   "terms": [
+    {
+     "district": 39,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 40,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 40,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "K000398": {
+   "last": "Kean",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "K000399": {
+   "last": "Kiggans",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "K000400": {
+   "last": "Kamlager-Dove",
+   "terms": [
+    {
+     "district": 37,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 37,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "K000401": {
+   "last": "Kiley",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "K000402": {
+   "last": "Kennedy",
+   "terms": [
+    {
+     "district": 26,
+     "end": "2025-01-03",
+     "start": "2024-05-06",
+     "state": "NY"
+    },
+    {
+     "district": 26,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "K000403": {
+   "last": "Kennedy",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "UT"
+    }
+   ]
+  },
+  "K000404": {
+   "last": "King-Hinds",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MP"
+    }
+   ]
+  },
+  "K000405": {
+   "last": "Knott",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "L000266": {
+   "last": "LaTurner",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "KS"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "KS"
+    }
+   ]
+  },
+  "L000273": {
+   "last": "Leger Fernandez",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NM"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NM"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NM"
+    }
+   ]
+  },
+  "L000397": {
+   "last": "Lofgren",
+   "terms": [
+    {
+     "district": 19,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 18,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 18,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "L000491": {
+   "last": "Lucas",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OK"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OK"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OK"
+    }
+   ]
+  },
+  "L000551": {
+   "last": "Lee",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "L000557": {
+   "last": "Larson",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CT"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CT"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CT"
+    }
+   ]
+  },
+  "L000559": {
+   "last": "Langevin",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "RI"
+    }
+   ]
+  },
+  "L000560": {
+   "last": "Larsen",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "L000562": {
+   "last": "Lynch",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MA"
+    }
+   ]
+  },
+  "L000564": {
+   "last": "Lamborn",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "L000566": {
+   "last": "Latta",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "L000569": {
+   "last": "Luetkemeyer",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "L000576": {
+   "last": "Long",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "L000578": {
+   "last": "LaMalfa",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 1,
+     "end": "2026-01-05",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "L000579": {
+   "last": "Lowenthal",
+   "terms": [
+    {
+     "district": 47,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "L000581": {
+   "last": "Lawrence",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "L000582": {
+   "last": "Lieu",
+   "terms": [
+    {
+     "district": 33,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 36,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 36,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "L000583": {
+   "last": "Loudermilk",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "L000585": {
+   "last": "LaHood",
+   "terms": [
+    {
+     "district": 18,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 16,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 16,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "L000586": {
+   "last": "Lawson",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "L000588": {
+   "last": "Lamb",
+   "terms": [
+    {
+     "district": 17,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "L000589": {
+   "last": "Lesko",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "L000590": {
+   "last": "Lee",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NV"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NV"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NV"
+    }
+   ]
+  },
+  "L000591": {
+   "last": "Luria",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "L000592": {
+   "last": "Levin",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "L000593": {
+   "last": "Levin",
+   "terms": [
+    {
+     "district": 49,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 49,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 49,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "L000595": {
+   "last": "Letlow",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-04-14",
+     "state": "LA"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "LA"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "LA"
+    }
+   ]
+  },
+  "L000596": {
+   "last": "Luna",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 13,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "L000597": {
+   "last": "Lee",
+   "terms": [
+    {
+     "district": 15,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 15,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "L000598": {
+   "last": "LaLota",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "L000599": {
+   "last": "Lawler",
+   "terms": [
+    {
+     "district": 17,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 17,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "L000600": {
+   "last": "Langworthy",
+   "terms": [
+    {
+     "district": 23,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 23,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "L000601": {
+   "last": "Landsman",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "L000602": {
+   "last": "Lee",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "L000603": {
+   "last": "Luttrell",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "L000604": {
+   "last": "Lopez",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2024-07-08",
+     "state": "CO"
+    }
+   ]
+  },
+  "L000605": {
+   "last": "Lee Carter",
+   "terms": [
+    {
+     "district": 18,
+     "end": "2025-01-03",
+     "start": "2024-11-05",
+     "state": "TX"
+    }
+   ]
+  },
+  "L000606": {
+   "last": "Latimer",
+   "terms": [
+    {
+     "district": 16,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "L000607": {
+   "last": "Liccardo",
+   "terms": [
+    {
+     "district": 16,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "M000087": {
+   "last": "Maloney",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "M000194": {
+   "last": "Mace",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "SC"
+    }
+   ]
+  },
+  "M000312": {
+   "last": "McGovern",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MA"
+    }
+   ]
+  },
+  "M000317": {
+   "last": "Malliotakis",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "M000687": {
+   "last": "Mfume",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "M000871": {
+   "last": "Mann",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "KS"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "KS"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "KS"
+    }
+   ]
+  },
+  "M001135": {
+   "last": "Manning",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "M001136": {
+   "last": "McClain",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "M001137": {
+   "last": "Meeks",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "M001143": {
+   "last": "McCollum",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MN"
+    }
+   ]
+  },
+  "M001156": {
+   "last": "McHenry",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "M001157": {
+   "last": "McCaul",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "M001159": {
+   "last": "McMorris Rodgers",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "M001160": {
+   "last": "Moore",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WI"
+    }
+   ]
+  },
+  "M001163": {
+   "last": "Matsui",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "M001165": {
+   "last": "McCarthy",
+   "terms": [
+    {
+     "district": 23,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 20,
+     "end": "2023-12-31",
+     "start": "2023-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "M001166": {
+   "last": "McNerney",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "M001177": {
+   "last": "McClintock",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "M001180": {
+   "last": "McKinley",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WV"
+    }
+   ]
+  },
+  "M001184": {
+   "last": "Massie",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "KY"
+    }
+   ]
+  },
+  "M001185": {
+   "last": "Maloney",
+   "terms": [
+    {
+     "district": 18,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "M001186": {
+   "last": "Meijer",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "M001188": {
+   "last": "Meng",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "M001190": {
+   "last": "Mullin",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OK"
+    }
+   ]
+  },
+  "M001194": {
+   "last": "Moolenaar",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "M001195": {
+   "last": "Mooney",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WV"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WV"
+    }
+   ]
+  },
+  "M001196": {
+   "last": "Moulton",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MA"
+    }
+   ]
+  },
+  "M001199": {
+   "last": "Mast",
+   "terms": [
+    {
+     "district": 18,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 21,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 21,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "M001202": {
+   "last": "Murphy",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "M001203": {
+   "last": "Malinowski",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "M001204": {
+   "last": "Meuser",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "M001205": {
+   "last": "Miller",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WV"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WV"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WV"
+    }
+   ]
+  },
+  "M001206": {
+   "last": "Morelle",
+   "terms": [
+    {
+     "district": 25,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 25,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 25,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "M001208": {
+   "last": "McBath",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "M001210": {
+   "last": "Murphy",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "M001211": {
+   "last": "Miller",
+   "terms": [
+    {
+     "district": 15,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 15,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 15,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "M001212": {
+   "last": "Moore",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AL"
+    }
+   ]
+  },
+  "M001213": {
+   "last": "Moore",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "UT"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "UT"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "UT"
+    }
+   ]
+  },
+  "M001214": {
+   "last": "Mrvan",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "M001215": {
+   "last": "Miller-Meeks",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IA"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IA"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IA"
+    }
+   ]
+  },
+  "M001216": {
+   "last": "Mills",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "M001217": {
+   "last": "Moskowitz",
+   "terms": [
+    {
+     "district": 23,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 23,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "M001218": {
+   "last": "McCormick",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "M001219": {
+   "last": "Moylan",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GU"
+    },
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GU"
+    }
+   ]
+  },
+  "M001220": {
+   "last": "McGarvey",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "KY"
+    }
+   ]
+  },
+  "M001221": {
+   "last": "Molinaro",
+   "terms": [
+    {
+     "district": 19,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "M001222": {
+   "last": "Miller",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "M001223": {
+   "last": "Magaziner",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "RI"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "RI"
+    }
+   ]
+  },
+  "M001224": {
+   "last": "Moran",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "M001225": {
+   "last": "Mullin",
+   "terms": [
+    {
+     "district": 15,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 15,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "M001226": {
+   "last": "Menendez",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "M001227": {
+   "last": "McClellan",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-03-07",
+     "state": "VA"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "M001228": {
+   "last": "Maloy",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-11-21",
+     "state": "UT"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "UT"
+    }
+   ]
+  },
+  "M001229": {
+   "last": "McIver",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2024-09-18",
+     "state": "NJ"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "M001230": {
+   "last": "Mackenzie",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "M001231": {
+   "last": "Mannion",
+   "terms": [
+    {
+     "district": 22,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "M001232": {
+   "last": "McClain Delaney",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "M001233": {
+   "last": "Messmer",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "M001234": {
+   "last": "Morrison",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MN"
+    }
+   ]
+  },
+  "M001235": {
+   "last": "Moore",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WV"
+    }
+   ]
+  },
+  "M001236": {
+   "last": "Moore",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "M001237": {
+   "last": "McDonald Rivet",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "M001238": {
+   "last": "McBride",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "DE"
+    }
+   ]
+  },
+  "M001239": {
+   "last": "McGuire",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "M001240": {
+   "last": "McDowell",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "M001241": {
+   "last": "Min",
+   "terms": [
+    {
+     "district": 47,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "M001245": {
+   "last": "Menefee",
+   "terms": [
+    {
+     "district": 18,
+     "end": "2027-01-03",
+     "start": "2026-02-02",
+     "state": "TX"
+    }
+   ]
+  },
+  "M001246": {
+   "last": "Mejia",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2026-04-20",
+     "state": "NJ"
+    }
+   ]
+  },
+  "N000002": {
+   "last": "Nadler",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "N000015": {
+   "last": "Neal",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MA"
+    }
+   ]
+  },
+  "N000026": {
+   "last": "Nehls",
+   "terms": [
+    {
+     "district": 22,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 22,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 22,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "N000147": {
+   "last": "Norton",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "DC"
+    },
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "DC"
+    },
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "DC"
+    }
+   ]
+  },
+  "N000179": {
+   "last": "Napolitano",
+   "terms": [
+    {
+     "district": 32,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 31,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "N000188": {
+   "last": "Norcross",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "N000189": {
+   "last": "Newhouse",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "N000190": {
+   "last": "Norman",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "SC"
+    }
+   ]
+  },
+  "N000191": {
+   "last": "Neguse",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "N000192": {
+   "last": "Newman",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "N000193": {
+   "last": "Nunn",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IA"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IA"
+    }
+   ]
+  },
+  "N000194": {
+   "last": "Nickel",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "O000019": {
+   "last": "Obernolte",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 23,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 23,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "O000086": {
+   "last": "Owens",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "UT"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "UT"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "UT"
+    }
+   ]
+  },
+  "O000171": {
+   "last": "O\u2019Halleran",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "O000172": {
+   "last": "Ocasio-Cortez",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 14,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 14,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "O000173": {
+   "last": "Omar",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MN"
+    }
+   ]
+  },
+  "O000175": {
+   "last": "Ogles",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TN"
+    }
+   ]
+  },
+  "O000176": {
+   "last": "Olszewski",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "O000177": {
+   "last": "Onder",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "P000034": {
+   "last": "Pallone",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "P000048": {
+   "last": "Pfluger",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "P000096": {
+   "last": "Pascrell",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 9,
+     "end": "2024-08-21",
+     "start": "2023-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "P000197": {
+   "last": "Pelosi",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "P000523": {
+   "last": "Price",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "P000593": {
+   "last": "Perlmutter",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "P000597": {
+   "last": "Pingree",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "ME"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "ME"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "ME"
+    }
+   ]
+  },
+  "P000599": {
+   "last": "Posey",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "P000601": {
+   "last": "Palazzo",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MS"
+    }
+   ]
+  },
+  "P000604": {
+   "last": "Payne",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 10,
+     "end": "2024-04-24",
+     "start": "2023-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "P000605": {
+   "last": "Perry",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "P000607": {
+   "last": "Pocan",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WI"
+    }
+   ]
+  },
+  "P000608": {
+   "last": "Peters",
+   "terms": [
+    {
+     "district": 52,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 50,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 50,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "P000609": {
+   "last": "Palmer",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AL"
+    }
+   ]
+  },
+  "P000610": {
+   "last": "Plaskett",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VI"
+    },
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VI"
+    },
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VI"
+    }
+   ]
+  },
+  "P000613": {
+   "last": "Panetta",
+   "terms": [
+    {
+     "district": 20,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 19,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 19,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "P000614": {
+   "last": "Pappas",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NH"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NH"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NH"
+    }
+   ]
+  },
+  "P000615": {
+   "last": "Pence",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "P000616": {
+   "last": "Phillips",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MN"
+    }
+   ]
+  },
+  "P000617": {
+   "last": "Pressley",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MA"
+    }
+   ]
+  },
+  "P000618": {
+   "last": "Porter",
+   "terms": [
+    {
+     "district": 45,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 47,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "P000619": {
+   "last": "Peltola",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2022-09-13",
+     "state": "AK"
+    },
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AK"
+    }
+   ]
+  },
+  "P000620": {
+   "last": "Pettersen",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CO"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CO"
+    }
+   ]
+  },
+  "P000621": {
+   "last": "Pou",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "P000622": {
+   "last": "Patronis",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-04-02",
+     "state": "FL"
+    }
+   ]
+  },
+  "Q000023": {
+   "last": "Quigley",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "R000103": {
+   "last": "Rosendale",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MT"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MT"
+    }
+   ]
+  },
+  "R000305": {
+   "last": "Ross",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "R000395": {
+   "last": "Rogers",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "KY"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "KY"
+    }
+   ]
+  },
+  "R000486": {
+   "last": "Roybal-Allard",
+   "terms": [
+    {
+     "district": 40,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "R000515": {
+   "last": "Rush",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "R000575": {
+   "last": "Rogers",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AL"
+    }
+   ]
+  },
+  "R000576": {
+   "last": "Ruppersberger",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "R000577": {
+   "last": "Ryan",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "R000579": {
+   "last": "Ryan",
+   "terms": [
+    {
+     "district": 19,
+     "end": "2023-01-03",
+     "start": "2022-09-13",
+     "state": "NY"
+    },
+    {
+     "district": 18,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 18,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "R000597": {
+   "last": "Rice",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "SC"
+    }
+   ]
+  },
+  "R000599": {
+   "last": "Ruiz",
+   "terms": [
+    {
+     "district": 36,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 25,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 25,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "R000600": {
+   "last": "Radewagen",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AS"
+    },
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AS"
+    },
+    {
+     "district": 0,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AS"
+    }
+   ]
+  },
+  "R000602": {
+   "last": "Rice",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "R000603": {
+   "last": "Rouzer",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NC"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NC"
+    }
+   ]
+  },
+  "R000606": {
+   "last": "Raskin",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "R000609": {
+   "last": "Rutherford",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "R000610": {
+   "last": "Reschenthaler",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 14,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 14,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "R000612": {
+   "last": "Rose",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TN"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TN"
+    }
+   ]
+  },
+  "R000614": {
+   "last": "Roy",
+   "terms": [
+    {
+     "district": 21,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 21,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 21,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "R000617": {
+   "last": "Ramirez",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "R000619": {
+   "last": "Rulli",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2024-06-11",
+     "state": "OH"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "R000620": {
+   "last": "Rivas",
+   "terms": [
+    {
+     "district": 29,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "R000621": {
+   "last": "Randall",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "R000622": {
+   "last": "Riley",
+   "terms": [
+    {
+     "district": 19,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "S000168": {
+   "last": "Salazar",
+   "terms": [
+    {
+     "district": 27,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 27,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 27,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "S000185": {
+   "last": "Scott",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "S000250": {
+   "last": "Sessions",
+   "terms": [
+    {
+     "district": 17,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 17,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 17,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "S000344": {
+   "last": "Sherman",
+   "terms": [
+    {
+     "district": 30,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 32,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 32,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "S000510": {
+   "last": "Smith",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "S000522": {
+   "last": "Smith",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "S000929": {
+   "last": "Spartz",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "S001135": {
+   "last": "Steel",
+   "terms": [
+    {
+     "district": 48,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 45,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "S001145": {
+   "last": "Schakowsky",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "S001148": {
+   "last": "Simpson",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "ID"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "ID"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "ID"
+    }
+   ]
+  },
+  "S001150": {
+   "last": "Schiff",
+   "terms": [
+    {
+     "district": 28,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 30,
+     "end": "2024-12-08",
+     "start": "2023-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "S001156": {
+   "last": "S\u00e1nchez",
+   "terms": [
+    {
+     "district": 38,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 38,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 38,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "S001157": {
+   "last": "Scott",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 13,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 13,
+     "end": "2026-04-21",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "S001159": {
+   "last": "Strickland",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "S001165": {
+   "last": "Sires",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "S001168": {
+   "last": "Sarbanes",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "S001172": {
+   "last": "Smith",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NE"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NE"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NE"
+    }
+   ]
+  },
+  "S001175": {
+   "last": "Speier",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "S001176": {
+   "last": "Scalise",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "LA"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "LA"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "LA"
+    }
+   ]
+  },
+  "S001177": {
+   "last": "Sablan",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MP"
+    },
+    {
+     "district": 0,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MP"
+    }
+   ]
+  },
+  "S001180": {
+   "last": "Schrader",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OR"
+    }
+   ]
+  },
+  "S001183": {
+   "last": "Schweikert",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "S001185": {
+   "last": "Sewell",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AL"
+    }
+   ]
+  },
+  "S001188": {
+   "last": "Stutzman",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "S001189": {
+   "last": "Scott",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "S001190": {
+   "last": "Schneider",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "S001192": {
+   "last": "Stewart",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "UT"
+    },
+    {
+     "district": 2,
+     "end": "2023-09-15",
+     "start": "2023-01-03",
+     "state": "UT"
+    }
+   ]
+  },
+  "S001193": {
+   "last": "Swalwell",
+   "terms": [
+    {
+     "district": 15,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 14,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 14,
+     "end": "2026-04-14",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "S001195": {
+   "last": "Smith",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "S001196": {
+   "last": "Stefanik",
+   "terms": [
+    {
+     "district": 21,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 21,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 21,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "S001199": {
+   "last": "Smucker",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "S001200": {
+   "last": "Soto",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 9,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 9,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "S001201": {
+   "last": "Suozzi",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2024-02-13",
+     "state": "NY"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "S001204": {
+   "last": "San Nicolas",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GU"
+    }
+   ]
+  },
+  "S001205": {
+   "last": "Scanlon",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "S001207": {
+   "last": "Sherrill",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 11,
+     "end": "2025-11-20",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "S001208": {
+   "last": "Slotkin",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "S001209": {
+   "last": "Spanberger",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "S001211": {
+   "last": "Stanton",
+   "terms": [
+    {
+     "district": 9,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AZ"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AZ"
+    }
+   ]
+  },
+  "S001212": {
+   "last": "Stauber",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MN"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MN"
+    }
+   ]
+  },
+  "S001213": {
+   "last": "Steil",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WI"
+    }
+   ]
+  },
+  "S001214": {
+   "last": "Steube",
+   "terms": [
+    {
+     "district": 17,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 17,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 17,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "S001215": {
+   "last": "Stevens",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "S001216": {
+   "last": "Schrier",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WA"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WA"
+    }
+   ]
+  },
+  "S001218": {
+   "last": "Stansbury",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-06-14",
+     "state": "NM"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NM"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NM"
+    }
+   ]
+  },
+  "S001219": {
+   "last": "Sempolinski",
+   "terms": [
+    {
+     "district": 23,
+     "end": "2023-01-03",
+     "start": "2022-09-13",
+     "state": "NY"
+    }
+   ]
+  },
+  "S001220": {
+   "last": "Strong",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AL"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AL"
+    }
+   ]
+  },
+  "S001221": {
+   "last": "Scholten",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "S001222": {
+   "last": "Santos",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-12-01",
+     "start": "2023-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "S001223": {
+   "last": "Sykes",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 13,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "S001224": {
+   "last": "Self",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "S001225": {
+   "last": "Sorensen",
+   "terms": [
+    {
+     "district": 17,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 17,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "S001226": {
+   "last": "Salinas",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OR"
+    },
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OR"
+    }
+   ]
+  },
+  "S001228": {
+   "last": "Schmidt",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "KS"
+    }
+   ]
+  },
+  "S001229": {
+   "last": "Shreve",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "S001230": {
+   "last": "Subramanyam",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "S001231": {
+   "last": "Simon",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "T000165": {
+   "last": "Tiffany",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WI"
+    }
+   ]
+  },
+  "T000193": {
+   "last": "Thompson",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MS"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MS"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MS"
+    }
+   ]
+  },
+  "T000460": {
+   "last": "Thompson",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "T000463": {
+   "last": "Turner",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 10,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "T000467": {
+   "last": "Thompson",
+   "terms": [
+    {
+     "district": 15,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 15,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 15,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "T000468": {
+   "last": "Titus",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NV"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NV"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NV"
+    }
+   ]
+  },
+  "T000469": {
+   "last": "Tonko",
+   "terms": [
+    {
+     "district": 20,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 20,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 20,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "T000472": {
+   "last": "Takano",
+   "terms": [
+    {
+     "district": 41,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 39,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 39,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "T000474": {
+   "last": "Torres",
+   "terms": [
+    {
+     "district": 35,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 35,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 35,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "T000478": {
+   "last": "Tenney",
+   "terms": [
+    {
+     "district": 22,
+     "end": "2023-01-03",
+     "start": "2021-02-11",
+     "state": "NY"
+    },
+    {
+     "district": 24,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 24,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "T000479": {
+   "last": "Taylor",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "T000480": {
+   "last": "Timmons",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "SC"
+    }
+   ]
+  },
+  "T000481": {
+   "last": "Tlaib",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "T000482": {
+   "last": "Trahan",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MA"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MA"
+    }
+   ]
+  },
+  "T000483": {
+   "last": "Trone",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MD"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MD"
+    }
+   ]
+  },
+  "T000486": {
+   "last": "Torres",
+   "terms": [
+    {
+     "district": 15,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 15,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 15,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "T000487": {
+   "last": "Tokuda",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "HI"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "HI"
+    }
+   ]
+  },
+  "T000488": {
+   "last": "Thanedar",
+   "terms": [
+    {
+     "district": 13,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 13,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "T000489": {
+   "last": "Turner",
+   "terms": [
+    {
+     "district": 18,
+     "end": "2025-03-04",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "T000490": {
+   "last": "Taylor",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "T000491": {
+   "last": "Tran",
+   "terms": [
+    {
+     "district": 45,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "U000031": {
+   "last": "Upton",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "U000040": {
+   "last": "Underwood",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 14,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IL"
+    },
+    {
+     "district": 14,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IL"
+    }
+   ]
+  },
+  "V000081": {
+   "last": "Vel\u00e1zquez",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    },
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "V000129": {
+   "last": "Valadao",
+   "terms": [
+    {
+     "district": 21,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 22,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 22,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "V000130": {
+   "last": "Vargas",
+   "terms": [
+    {
+     "district": 51,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 52,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 52,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "V000131": {
+   "last": "Veasey",
+   "terms": [
+    {
+     "district": 33,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 33,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 33,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "V000133": {
+   "last": "Van Drew",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "V000134": {
+   "last": "Van Duyne",
+   "terms": [
+    {
+     "district": 24,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 24,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 24,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "V000135": {
+   "last": "Van Orden",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "WI"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WI"
+    }
+   ]
+  },
+  "V000136": {
+   "last": "Vasquez",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NM"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NM"
+    }
+   ]
+  },
+  "V000138": {
+   "last": "Vindman",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "V000139": {
+   "last": "Van Epps",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2027-01-03",
+     "start": "2025-12-04",
+     "state": "TN"
+    }
+   ]
+  },
+  "W000187": {
+   "last": "Waters",
+   "terms": [
+    {
+     "district": 43,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 43,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "CA"
+    },
+    {
+     "district": 43,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "W000788": {
+   "last": "Williams",
+   "terms": [
+    {
+     "district": 5,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "GA"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "GA"
+    }
+   ]
+  },
+  "W000795": {
+   "last": "Wilson",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "SC"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "SC"
+    }
+   ]
+  },
+  "W000797": {
+   "last": "Wasserman Schultz",
+   "terms": [
+    {
+     "district": 23,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 25,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 25,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "W000798": {
+   "last": "Walberg",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 5,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MI"
+    },
+    {
+     "district": 5,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MI"
+    }
+   ]
+  },
+  "W000800": {
+   "last": "Welch",
+   "terms": [
+    {
+     "district": 0,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VT"
+    }
+   ]
+  },
+  "W000804": {
+   "last": "Wittman",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "W000806": {
+   "last": "Webster",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 11,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "W000808": {
+   "last": "Wilson",
+   "terms": [
+    {
+     "district": 24,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 24,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 24,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "W000809": {
+   "last": "Womack",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AR"
+    },
+    {
+     "district": 3,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AR"
+    },
+    {
+     "district": 3,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AR"
+    }
+   ]
+  },
+  "W000812": {
+   "last": "Wagner",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MO"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MO"
+    }
+   ]
+  },
+  "W000814": {
+   "last": "Weber",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 14,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 14,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "W000815": {
+   "last": "Wenstrup",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "OH"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "OH"
+    }
+   ]
+  },
+  "W000816": {
+   "last": "Williams",
+   "terms": [
+    {
+     "district": 25,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 25,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "TX"
+    },
+    {
+     "district": 25,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "TX"
+    }
+   ]
+  },
+  "W000821": {
+   "last": "Westerman",
+   "terms": [
+    {
+     "district": 4,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "AR"
+    },
+    {
+     "district": 4,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "AR"
+    },
+    {
+     "district": 4,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "AR"
+    }
+   ]
+  },
+  "W000822": {
+   "last": "Watson Coleman",
+   "terms": [
+    {
+     "district": 12,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 12,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NJ"
+    },
+    {
+     "district": 12,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "NJ"
+    }
+   ]
+  },
+  "W000823": {
+   "last": "Waltz",
+   "terms": [
+    {
+     "district": 6,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "FL"
+    },
+    {
+     "district": 6,
+     "end": "2025-01-20",
+     "start": "2025-01-03",
+     "state": "FL"
+    }
+   ]
+  },
+  "W000825": {
+   "last": "Wexton",
+   "terms": [
+    {
+     "district": 10,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "VA"
+    },
+    {
+     "district": 10,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "VA"
+    }
+   ]
+  },
+  "W000826": {
+   "last": "Wild",
+   "terms": [
+    {
+     "district": 7,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "PA"
+    },
+    {
+     "district": 7,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "PA"
+    }
+   ]
+  },
+  "W000828": {
+   "last": "Williams",
+   "terms": [
+    {
+     "district": 22,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "W000829": {
+   "last": "Wied",
+   "terms": [
+    {
+     "district": 8,
+     "end": "2025-01-03",
+     "start": "2024-11-05",
+     "state": "WI"
+    },
+    {
+     "district": 8,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "WI"
+    }
+   ]
+  },
+  "W000830": {
+   "last": "Whitesides",
+   "terms": [
+    {
+     "district": 27,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "CA"
+    }
+   ]
+  },
+  "W000831": {
+   "last": "Walkinshaw",
+   "terms": [
+    {
+     "district": 11,
+     "end": "2027-01-03",
+     "start": "2025-09-10",
+     "state": "VA"
+    }
+   ]
+  },
+  "W000832": {
+   "last": "Wahab",
+   "terms": [
+    {
+     "district": 14,
+     "end": "2027-01-03",
+     "start": "2026-09-02",
+     "state": "CA"
+    }
+   ]
+  },
+  "Y000062": {
+   "last": "Yarmuth",
+   "terms": [
+    {
+     "district": 3,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "KY"
+    }
+   ]
+  },
+  "Y000067": {
+   "last": "Yakym",
+   "terms": [
+    {
+     "district": 2,
+     "end": "2023-01-03",
+     "start": "2022-11-14",
+     "state": "IN"
+    },
+    {
+     "district": 2,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "IN"
+    },
+    {
+     "district": 2,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "IN"
+    }
+   ]
+  },
+  "Z000017": {
+   "last": "Zeldin",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2023-01-03",
+     "start": "2021-01-03",
+     "state": "NY"
+    }
+   ]
+  },
+  "Z000018": {
+   "last": "Zinke",
+   "terms": [
+    {
+     "district": 1,
+     "end": "2025-01-03",
+     "start": "2023-01-03",
+     "state": "MT"
+    },
+    {
+     "district": 1,
+     "end": "2027-01-03",
+     "start": "2025-01-03",
+     "state": "MT"
+    }
+   ]
+  }
+ },
+ "source": "https://github.com/unitedstates/congress-legislators"
+}

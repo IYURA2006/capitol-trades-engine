@@ -1,0 +1,8 @@
+.git
+.venv
+scratch
+blobs
+snapshots
+coordinator
+docs
+**/__pycache__

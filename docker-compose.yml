@@ -1,0 +1,76 @@
+name: capitol
+
+x-coordinator: &coordinator
+  build: ./coordinator
+  environment:
+    DATABASE_URL: postgres://engine:engine@postgres:5432/engine?sslmode=disable
+    LEASE: ${LEASE:-30s}
+    REAPER_INTERVAL: ${REAPER_INTERVAL:-2s}
+    BACKOFF_BASE: ${BACKOFF_BASE:-1s}
+    BACKOFF_CAP: ${BACKOFF_CAP:-60s}
+  depends_on:
+    postgres:
+      condition: service_healthy
+  healthcheck:
+    test: ["CMD", "wget", "-qO-", "http://localhost:8080/healthz"]
+    interval: 2s
+    timeout: 2s
+    retries: 30
+  restart: "no"
+
+services:
+  postgres:
+    image: postgres:17
+    command: ["postgres", "-c", "max_connections=300"]
+    environment:
+      POSTGRES_USER: engine
+      POSTGRES_PASSWORD: engine
+      POSTGRES_DB: engine
+    ports:  # bound to localhost: nothing here is reachable from the network
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U engine -d engine"]
+      interval: 1s
+      timeout: 2s
+      retries: 30
+
+  coordinator-1:
+    <<: *coordinator
+    ports:
+      - "127.0.0.1:50051:50051"
+      - "127.0.0.1:8081:8080"
+
+  coordinator-2:
+    <<: *coordinator
+    ports:
+      - "127.0.0.1:50052:50051"
+      - "127.0.0.1:8082:8080"
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile.worker
+    init: true
+    environment:
+      COORDINATORS: coordinator-1:50051,coordinator-2:50051
+      RECORDS_DSN: postgresql://worker_ro:worker_ro@postgres:5432/engine
+      BLOB_DIR: /data/blobs
+      SNAPSHOT_DIR: /data/snapshots
+      TASK_MODULES: ${TASK_MODULES:-pipeline.tasks.toy}
+    volumes:
+      - blobs:/data/blobs
+      - ./snapshots:/data/snapshots:ro
+    depends_on:
+      coordinator-1:
+        condition: service_healthy
+      coordinator-2:
+        condition: service_healthy
+    deploy:
+      replicas: ${WORKERS:-4}
+    restart: "no"
+
+volumes:
+  pgdata:
+  blobs:

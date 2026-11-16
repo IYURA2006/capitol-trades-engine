@@ -1,0 +1,47 @@
+[
+ {
+  "amount_high": 15000.0,
+  "amount_low": 1001.0,
+  "asset": "CompoSecure, Inc. - Class A Common Stock",
+  "disclosure_date": "2025-02-25",
+  "doc_id": "20027846",
+  "filer": "Brad Knott",
+  "notification_date": "2025-01-10",
+  "owner": "self",
+  "partial": false,
+  "side": "buy",
+  "state_district": "NC13",
+  "ticker": "CMPO",
+  "trade_date": "2025-01-10"
+ },
+ {
+  "amount_high": 15000.0,
+  "amount_low": 1001.0,
+  "asset": "CompoSecure, Inc. - Class A Common Stock",
+  "disclosure_date": "2025-02-25",
+  "doc_id": "20027846",
+  "filer": "Brad Knott",
+  "notification_date": "2025-01-14",
+  "owner": "self",
+  "partial": false,
+  "side": "buy",
+  "state_district": "NC13",
+  "ticker": "CMPO",
+  "trade_date": "2025-01-14"
+ },
+ {
+  "amount_high": 50000.0,
+  "amount_low": 15001.0,
+  "asset": "Oramed Pharmaceuticals Inc. - Common Stock",
+  "disclosure_date": "2025-02-25",
+  "doc_id": "20027846",
+  "filer": "Brad Knott",
+  "notification_date": "2025-01-10",
+  "owner": "self",
+  "partial": false,
+  "side": "sell",
+  "state_district": "NC13",
+  "ticker": "ORMP",
+  "trade_date": "2025-01-10"
+ }
+]

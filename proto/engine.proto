@@ -1,0 +1,104 @@
+syntax = "proto3";
+
+package engine.v1;
+
+option go_package = "capitoltrades/coordinator/internal/pb;pb";
+
+// Engine is the only API between workers (or ctl) and the coordinator.
+// Every RPC is safe to retry (design rule 5).
+service Engine {
+  rpc SubmitRun(SubmitRunRequest) returns (SubmitRunResponse); // ctl only
+  rpc LeaseTask(LeaseRequest) returns (LeaseResponse);         // long-poll, up to 20 s
+  rpc Heartbeat(HeartbeatRequest) returns (HeartbeatResponse);
+  rpc Complete(CompleteRequest) returns (CompleteResponse);
+  rpc Fail(FailRequest) returns (FailResponse);
+}
+
+// TaskSpec describes one task in a DAG or sub-DAG.
+// depends_on_keys refers to siblings in the same request as "type/key".
+message TaskSpec {
+  string type = 1;
+  string key = 2;
+  bytes payload = 3; // JSON
+  repeated string depends_on_keys = 4;
+  string rate_key = 5;
+  bool tolerate_failures = 6;
+  int32 max_attempts = 7; // 0 = server default
+}
+
+message SubmitRunRequest {
+  string run_id = 1; // chosen by the client, so a retry is harmless
+  string workflow = 2;
+  string snapshot_id = 3; // empty = live mode
+  int64 seed = 4;
+  repeated TaskSpec tasks = 5;
+}
+
+message SubmitRunResponse {
+  bool created = 1; // false when the run already existed
+}
+
+message LeaseRequest {
+  string worker_id = 1;
+  repeated string task_types = 2;
+}
+
+message LeaseResponse {
+  bool has_task = 1;
+  string task_id = 2;
+  string task_type = 3;
+  bytes payload = 4;
+  int64 attempt = 5; // the fencing token
+  int32 lease_seconds = 6;
+  string run_id = 7;
+  string snapshot_id = 8;
+  int64 seed = 9;
+  string task_key = 10;
+}
+
+message HeartbeatRequest {
+  string task_id = 1;
+  int64 attempt = 2;
+}
+
+message HeartbeatResponse {
+  bool lease_lost = 1;
+}
+
+message Record {
+  string kind = 1;
+  string key = 2;
+  bytes data = 3; // JSON
+}
+
+message CompleteRequest {
+  string task_id = 1;
+  int64 attempt = 2;
+  bytes output = 3; // JSON, may be empty
+  repeated Record records = 4;
+  repeated TaskSpec sub_dag = 5;
+}
+
+message CompleteResponse {
+  enum Status {
+    OK = 0;
+    STALE_LEASE = 1;
+  }
+  Status status = 1;
+}
+
+message FailRequest {
+  string task_id = 1;
+  int64 attempt = 2;
+  string error = 3;
+  bool fatal = 4;
+  int32 retry_after_seconds = 5;
+}
+
+message FailResponse {
+  enum Status {
+    OK = 0;
+    STALE_LEASE = 1;
+  }
+  Status status = 1;
+}

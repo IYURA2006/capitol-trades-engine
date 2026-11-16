@@ -1,0 +1,10 @@
+FROM python:3.13-slim
+WORKDIR /app
+# The lock file fixes every library version, so every worker computes the
+# same numbers (rules 7 and 8 in docs/design.md).
+COPY requirements.lock .
+RUN pip install --no-cache-dir -r requirements.lock
+COPY sdk/capitol_sdk sdk/capitol_sdk
+COPY pipeline pipeline
+ENV PYTHONPATH=/app/sdk:/app PYTHONUNBUFFERED=1
+CMD ["python", "-m", "capitol_sdk.worker"]

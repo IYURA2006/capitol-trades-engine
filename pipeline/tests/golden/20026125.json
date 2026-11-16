@@ -1,0 +1,32 @@
+[
+ {
+  "amount_high": 50000.0,
+  "amount_low": 15001.0,
+  "asset": "ASML Holding N.V. - New York Registry Shares",
+  "disclosure_date": "2024-11-29",
+  "doc_id": "20026125",
+  "filer": "Jonathan Jackson",
+  "notification_date": "2024-11-01",
+  "owner": "JT",
+  "partial": false,
+  "side": "sell",
+  "state_district": "IL01",
+  "ticker": "ASML",
+  "trade_date": "2024-10-28"
+ },
+ {
+  "amount_high": 50000.0,
+  "amount_low": 15001.0,
+  "asset": "Salesforce, Inc. Common Stock",
+  "disclosure_date": "2024-11-29",
+  "doc_id": "20026125",
+  "filer": "Jonathan Jackson",
+  "notification_date": "2024-11-01",
+  "owner": "JT",
+  "partial": false,
+  "side": "buy",
+  "state_district": "IL01",
+  "ticker": "CRM",
+  "trade_date": "2024-10-28"
+ }
+]
